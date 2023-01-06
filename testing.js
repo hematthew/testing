@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 function testing(props) {
   return (
-    <div>testing</div>
+    <div>testing js</div>
   )
 }
 
